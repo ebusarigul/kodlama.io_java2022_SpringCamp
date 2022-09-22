@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video6_variables_degiskenler {
+public class Video6_variables_degiskenler {
     public static void main(String[] args) {
 
         int ogrenciSayisi = 12;

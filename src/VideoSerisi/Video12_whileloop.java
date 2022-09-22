@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video12_whileloop {
+public class Video12_whileloop {
     public static void main(String[] args) {
 
         // While Loop

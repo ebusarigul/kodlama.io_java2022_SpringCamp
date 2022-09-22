@@ -1,8 +1,8 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
 import java.util.Scanner;
 
-public class video21_mukemmelSayi {
+public class Video21_mukemmelSayi {
     public static void main(String[] args) {
 
         Scanner oku = new Scanner(System.in);

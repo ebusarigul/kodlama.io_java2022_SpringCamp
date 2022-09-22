@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video17_strings {
+public class Video17_strings {
     public static void main(String[] args) {
 
         String message = "The weather is very nice today.";

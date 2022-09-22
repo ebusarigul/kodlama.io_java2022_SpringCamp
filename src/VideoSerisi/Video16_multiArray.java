@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video16_multiArray {
+public class Video16_multiArray {
     public static void main(String[] args) {
 
         String[][] sehirler = new String[3][3];

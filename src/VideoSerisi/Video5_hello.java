@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video5_hello {
+public class Video5_hello {
     public static void main(String[] args) {
 
         System.out.println("Hello Ebubekir");

@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video7_dataTypes {
+public class Video7_dataTypes {
     public static void main(String[] args) {
 
         double sayi = 12.5;

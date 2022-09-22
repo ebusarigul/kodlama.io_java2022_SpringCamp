@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video23_sayiBulma {
+public class Video23_sayiBulma {
     public static void main(String[] args) {
 
         int[] sayilar = new int[]{1, 2, 5, 7, 9, 0};

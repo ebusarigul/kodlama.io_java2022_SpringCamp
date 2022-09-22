@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video9_recapDemo1_tekrar1 {
+public class Video9_recapDemo1_tekrar1 {
     public static void main(String[] args) {
 
         int sayi1 = 20;

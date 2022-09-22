@@ -1,8 +1,8 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
 import java.util.Scanner;
 
-public class video19_miniProjeAsalSayi {
+public class Video19_miniProjeAsalSayi {
     public static void main(String[] args) {
 
         Scanner oku = new Scanner(System.in);

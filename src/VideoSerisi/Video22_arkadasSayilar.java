@@ -1,8 +1,8 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
 import java.util.Scanner;
 
-public class video22_arkadasSayilar {
+public class Video22_arkadasSayilar {
     public static void main(String[] args) {
 
         // 220-284

@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video10_switchcase {
+public class Video10_switchcase {
     public static void main(String[] args) {
 
         char grade = 'K';

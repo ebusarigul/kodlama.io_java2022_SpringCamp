@@ -1,8 +1,8 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
 import java.util.Scanner;
 
-public class video20_sesliHarfler {
+public class Video20_sesliHarfler {
     public static void main(String[] args) {
 
         Scanner oku = new Scanner(System.in);

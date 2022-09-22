@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video8_conditionals_sartlar {
+public class Video8_conditionals_sartlar {
     public static void main(String[] args) {
 
         int sayi = 24;

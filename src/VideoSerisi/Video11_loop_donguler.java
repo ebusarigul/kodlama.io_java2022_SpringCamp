@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video11_loop_donguler {
+public class Video11_loop_donguler {
     public static void main(String[] args) {
 
         // for()

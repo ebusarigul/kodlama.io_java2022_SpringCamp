@@ -1,6 +1,6 @@
-package VideoSerisi_1_23;
+package VideoSerisi;
 
-public class video14_Arrays_Diziler {
+public class Video14_Arrays_Diziler {
     public static void main(String[] args) {
 
         String ogr1 = "Ebubekir";
